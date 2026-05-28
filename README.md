@@ -2,6 +2,11 @@
 
 A Django-based environmental monitoring system for Raspberry Pi that collects sensor data and submits the data to a central EnviroHub API for analysis and visualization.
 
+> [!IMPORTANT]
+> **This project has been archived.**  
+> Development continues in a new repository: [Neluxx/enviro-node](https://github.com/Neluxx/enviro-node).  
+> The project was discontinued because the **Django** framework was overkill for such a small application.
+
 ## Features
 
 ### Indoor Environmental Monitoring
